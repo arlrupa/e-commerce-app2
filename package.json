@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-app-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlrupa/e-commerce-app2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlrupa/e-commerce-app2/issues"
+  },
+  "homepage": "https://github.com/arlrupa/e-commerce-app2#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.3"
+  }
+}
